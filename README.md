@@ -24,7 +24,7 @@
 ## Support
 > Please contact [Technical Support](wmsn.web@gmail.com) for any live or account issues.
 
-## Bkash Documentations 
+## Stripe Documentations 
 > For full Documentation [Visit Here](https://stripe.com/docs)
 
 ## Testing Credentials
